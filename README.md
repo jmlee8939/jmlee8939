@@ -50,7 +50,7 @@ To learn more about my experience, please feel free to reach out to me through t
 ---
 
 ### ⛏️ Tech Stack
-데이터 분석에 필요한 다양한 분석 툴 들을 활용할 수 있습니다.
+데이터 분석에 필요한 다양한 분석 툴 활용 가능합니다.
 - 파이썬 패키지
 
 | Numpy | Pandas | Scikit-learn | Pytorch | matplotlib | seaborn | Plotly | Beautifulsoup |
