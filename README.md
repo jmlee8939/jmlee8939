@@ -12,7 +12,7 @@
 Software engineer of Samsung Electronics DS Innovation Center, specializing in improving and developing data-driven semiconductor logistics automatic dispatching system. I analyze real-time transportation history data from the manufacturing line in order to develop logic that enhances production efficiency. I have a master's degree in data mining and a keen interest in data-driven decision-making processes. Additionally, I continuously study data visualization, time series data analysis, machine learning, and deep learning (Computer Vision) techniques used in these areas. I enjoy exploring about logistics, transportation, and soccer tactics analysis. 🥸
 <br>
 <br>
-저에 대해서 추가적으로 궁금한점 있으시면 아래 링크 참고해주시고, 메일로 연락주셔도 좋습니다. 😁   
+저에 대해서 추가적으로 궁금한점 있으시면 아래 링크 참고해주시거나 메일로 연락주세요. 😁   
 
 <br>
 To learn more about my experience, please feel free to reach out to me through the following channels. 🧑🏽‍💻
