@@ -12,7 +12,7 @@
 Software engineer of Samsung Electronics DS Innovation Center, specializing in improving and developing data-driven semiconductor logistics automatic dispatching system. I analyze real-time transportation history data from the manufacturing line in order to develop logic that enhances production efficiency. I have a master's degree in data mining and a keen interest in data-driven decision-making processes. Additionally, I continuously study data visualization, time series data analysis, machine learning, and deep learning (Computer Vision) techniques used in these areas. I enjoy exploring about logistics, transportation, and soccer tactics analysis. 🥸
 <br>
 <br>
-저에 대해서 추가적으로 궁금한점 있으시면 아래 CV, Blog 링크 참고해주시고, 메일로 연락주셔도 좋습니다. 😁   
+저에 대해서 추가적으로 궁금한점 있으시면 아래 링크 참고해주시고, 메일로 연락주셔도 좋습니다. 😁   
 
 <br>
 To learn more about my experience, please feel free to reach out to me through the following channels. 🧑🏽‍💻
@@ -50,17 +50,18 @@ To learn more about my experience, please feel free to reach out to me through t
 ---
 
 ### ⛏️ Tech Stack
-- 파이썬
+데이터 분석에 필요한 다양한 분석 툴 들을 활용할 수 있습니다.
+- 파이썬 패키지
 
 | Numpy | Pandas | Scikit-learn | Pytorch | matplotlib | seaborn | Plotly | Beautifulsoup |
 |---|---|---|---|---|---|---|---|
 | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/e824b567-7e7f-4789-8f7c-6e9167e88d11"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/be5eec6f-fcab-421e-a200-84d1b3d2bb3a"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/7ee3e1ab-7c33-4338-829c-f221ebbf7944"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/a53d7d28-593e-4356-81b1-5cac090a0771">| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/73c8247f-9b2b-4cd1-ab3f-2a573653a184"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/ab308bc8-f6e6-4a5f-bb4f-001feb244f20"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/8702c2b5-809b-4262-bdf5-eaabd1a0ca28"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6a599815-0acf-48ad-b0bb-ea7f252d52fb"> |  
 
-- 다른 툴
+- 다른 분석 툴
 
 | Oracle SQL | R | Rstudio | tydiverse | ggplot2 | Tableau | SAS |
 |---|---|---|---|---|---|---|
-|  |  |  |  |  |  |  |
+| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/1529a41e-248a-42ef-8ff9-4b2e72916ec4"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/164969d0-39e1-49c7-9691-886c9f026547"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6e3998b1-3bf4-4601-a8c5-e065e26b1a3b"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/cacdd530-42a7-4805-9fad-7e4167cdcb94"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/adb87a22-3549-434a-a051-221685fa28d8"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/2d15d6ad-aeaa-42be-9141-a97df3118120"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/30eacdec-1dc1-445a-90ff-57013a65b46c"> |
 
 ---
 
