@@ -50,7 +50,6 @@ To learn more about my experience, please feel free to reach out to me through t
 | Numpy | Pandas | Scikit-learn | Pytorch | matplotlib | seaborn | Plotly | Beautifulsoup |
 |---|---|---|---|---|---|---|---|
 | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/e824b567-7e7f-4789-8f7c-6e9167e88d11"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/be5eec6f-fcab-421e-a200-84d1b3d2bb3a"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/7ee3e1ab-7c33-4338-829c-f221ebbf7944"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/a53d7d28-593e-4356-81b1-5cac090a0771">| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/73c8247f-9b2b-4cd1-ab3f-2a573653a184"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/ab308bc8-f6e6-4a5f-bb4f-001feb244f20"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/8702c2b5-809b-4262-bdf5-eaabd1a0ca28"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6a599815-0acf-48ad-b0bb-ea7f252d52fb"> |  
----
 
 - 다른 툴
 
@@ -58,15 +57,14 @@ To learn more about my experience, please feel free to reach out to me through t
 |---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |
 
+---
+
 
 ### 📝 Publications
 
 1. Multi-veiw clustering 연구
 - [*Pattern Recognition Journal [2020]*](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001200?via%3Dihub)
 - 📙 NB : [Faster CCE](https://github.com/jmlee8939/faster_CCE)
-<p align="center">
-  <img src="https://github.com/jmlee8939/faster_CCE/assets/58785929/e6ac5c9d-1fe1-4829-8701-68be24830d48" align="center" width="80%">
-</p>
 
 2. COVID-19 로 인한 무관중 축구경기 승부예측 모형 연구
 - [*Entropy [2020]*](https://www.mdpi.com/1099-4300/24/3/366) 
