@@ -20,11 +20,11 @@ To learn more about my experience, please feel free to reach out to me through t
 <br>
 <br>
 
-![Static Badge](https://img.shields.io/badge/JM-CV-blue?link=https%3A%2F%2Fgithub.com%2Fjmlee8939%2Fjmlee8939%2Fblob%2Fmain%2FCV%2FJaeminLee_CV_WEB.pdf)
-![Static Badge](https://img.shields.io/badge/DP20-Blog-green?cacheSeconds=https%3A%2F%2Fjmlee8939.github.io%2F)
-![Static Badge](https://img.shields.io/badge/Github-black?logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fjmlee8939)
-![Static Badge](https://img.shields.io/badge/Linked_in-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjmlee8939)
-![Static Badge](https://img.shields.io/badge/E--Mail-orange?cacheSeconds=mailto%3Ajmlee8939%40hanmail.net)
+[![Static Badge](https://img.shields.io/badge/JM-CV-blue)](https://github.com/jmlee8939/jmlee8939/blob/main/CV/JaeminLee_CV_WEB.pdf)
+[![Static Badge](https://img.shields.io/badge/DP20-Blog-green)](https://jmlee8939.github.io)
+[![Static Badge](https://img.shields.io/badge/Github-black)](https://github.com/jmlee8939)
+[![Static Badge](https://img.shields.io/badge/Linked_in-blue)](https://www.linkedin.com/in/jmlee8939/)
+[![Static Badge](https://img.shields.io/badge/E--Mail-orange)](mailto:jmlee8939@hanmail.net)
 
 ---
 ### 📒 Notebooks
