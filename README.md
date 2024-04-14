@@ -63,8 +63,10 @@ To learn more about my experience, please feel free to reach out to me through t
 
 1. Multi-veiw clustering 연구
 <br>
+
 - [*Pattern Recognition Journal [2020]*](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001200?via%3Dihub)
 <br>
+
 - 📙 NB : [Faster CCE](https://github.com/jmlee8939/faster_CCE)
 <p align="center">
   <img src="https://github.com/jmlee8939/faster_CCE/assets/58785929/e6ac5c9d-1fe1-4829-8701-68be24830d48" align="center" width="80%">
