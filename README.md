@@ -22,8 +22,8 @@ To learn more about my experience, please feel free to reach out to me through t
 
 [![Static Badge](https://img.shields.io/badge/JM-CV-blue)](https://github.com/jmlee8939/jmlee8939/blob/main/CV/JaeminLee_CV_WEB.pdf)
 [![Static Badge](https://img.shields.io/badge/DP20-Blog-green)](https://jmlee8939.github.io)
-[![Static Badge](https://img.shields.io/badge/Github-black&logo=github)](https://github.com/jmlee8939)
-[![Static Badge](https://img.shields.io/badge/Linked_in-blue&logo=linkedin)](https://www.linkedin.com/in/jmlee8939/)
+[![Static Badge](https://img.shields.io/badge/Github-black?logo=github)](https://github.com/jmlee8939)
+[![Static Badge](https://img.shields.io/badge/Linked_in-blue?logo=linkedin)](https://www.linkedin.com/in/jmlee8939/)
 [![Static Badge](https://img.shields.io/badge/E--Mail-orange)](mailto:jmlee8939@hanmail.net)
 
 ---
