@@ -2,7 +2,13 @@
 #####  👋 Hi there, I'm jaemin lee
 ---
 
-현재 삼성전자 DS 혁신센터에서 데이터 기반 반도체 물류 자동 반송 시스템 개선 및 개발하는 소프트웨어 엔지니어입니다. 생산라인에서 발생하는 실시간 반송 이력 데이터를 분석하여 생산 효율을 높이는 로직을 개발하고 있습니다. 석사과정으로 데이터 마이닝을 전공했고, 특히 데이터 기반 의사결정 프로세스에 관심이 많습니다. 이에 활용되는 데이터 시각화, 시계열 데이터 분석, 머신러닝, 딥러닝(Computer Vision) 기법들을 꾸준히 학습하고 있습니다. 물류, 교통 및 축구 전술 분석 등에 흥미가 많습니다. 🤓 
+현재 삼성전자 DS 혁신센터에서 데이터 기반 반도체 물류 자동 반송 시스템 개선 및 개발하는 소프트웨어 엔지니어입니다.
+<br>
+
+생산라인에서 발생하는 실시간 반송 이력 데이터를 분석하여 생산 효율을 높이는 로직을 개발하고 있습니다.
+석사과정으로 데이터 마이닝을 전공했고, 특히 데이터 기반 의사결정 프로세스에 관심이 많습니다. 
+이에 활용되는 데이터 시각화, 시계열 데이터 분석, 머신러닝, 딥러닝(Computer Vision) 기법들을 꾸준히 학습하고 있습니다. 
+물류, 교통 및 축구 전술 분석 등에 흥미가 많습니다. 🤓 
 
 <br>
 Software engineer of Samsung Electronics DS Innovation Center, specializing in improving and developing data-driven semiconductor logistics automatic dispatching system. I analyze real-time transportation history data from the manufacturing line in order to develop logic that enhances production efficiency. I have a master's degree in data mining and a keen interest in data-driven decision-making processes. Additionally, I continuously study data visualization, time series data analysis, machine learning, and deep learning (Computer Vision) techniques used in these areas. I enjoy exploring about logistics, transportation, and soccer tactics analysis. 🥸
@@ -13,6 +19,7 @@ Software engineer of Samsung Electronics DS Innovation Center, specializing in i
 <br>
 To learn more about my experience, please feel free to reach out to me through the following channels. 🧑🏽‍💻
 
+<br>
 <br>
 
 ![Static Badge](https://img.shields.io/badge/JM-CV-blue?link=https%3A%2F%2Fgithub.com%2Fjmlee8939%2Fjmlee8939%2Fblob%2Fmain%2FCV%2FJaeminLee_CV_WEB.pdf)
