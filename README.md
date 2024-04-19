@@ -44,7 +44,7 @@ To learn more about my experience, please feel free to reach out to me through t
 5. 학습
     - [Computer Vision - cs231n 강의 과제 풀이](https://github.com/jmlee8939/cs231n-2021)
     - [SQL - SQL Cookbook 실습](https://github.com/jmlee8939/SQL_Cookcook)
-    - [C(++) & 알고리즘 - 백준 문제 풀이]()
+    - [C & 알고리즘 - 백준 문제 풀이]()
 
 
 ---
