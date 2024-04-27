@@ -41,7 +41,7 @@ To learn more about my experience, please feel free to reach out to me through t
 4.  데이터 사이언스
     - [축구경기 공간 점유 모델 (pitch control)](https://github.com/jmlee8939/Wide-Open-Space_Pitch_Control_Model)
     - [축구경기 슛 기대득점 모델 (xG)](https://github.com/jmlee8939/Expected-values-of-soccer)
-    - [K-league 실시간 경기 승리확률 예측 모형](https://github.com/jmlee8939/K_league_in_game_win_probability_model)
+    - [K-league 실시간 경기 승리확률 예측 베이지안 모형](https://github.com/jmlee8939/K_league_in_game_win_probability_model)
 5. 학습
     - [Computer Vision - cs231n 강의 과제 풀이](https://github.com/jmlee8939/cs231n-2021)
     - [SQL - SQL Cookbook 실습](https://github.com/jmlee8939/SQL_Cookcook)
