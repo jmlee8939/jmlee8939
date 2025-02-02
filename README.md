@@ -1,11 +1,11 @@
 ###  🙇‍♂️ 안녕하세요 이재민입니다 
 #####  👋 Hi there, I'm jaemin lee
 ---
-ME 🥸 = '통계' + '프로그래밍' + '커뮤니케이션' + '역학'
+ME 🥸 = '통계' + '프로그래밍' + '커뮤니케이션'
 ---
-현재 삼성전자 DS 혁신센터에서 반도체 물류 자동 운송 시스템 개선 및 개발 업무 하고 있습니다.
+현재 삼성전자 DS AI센터에서 반도체 물류 자동 반송 시스템 개선 및 개발 업무를 하고 있습니다.
 생산라인에서 발생하는 실시간 반송 이력 데이터를 분석하여 생산 효율을 높이는 로직을 개발하고 있습니다.
-석사과정으로 데이터 마이닝을 전공했고, 특히 데이터 기반 의사결정 프로세스, 물류, 교통 및 축구 전술 분석에 관심이 많습니다. 
+석사과정으로 데이터 마이닝을 전공했고, 특히 데이터 기반 의사결정 프로세스, 물류, 축구 전술 분석 등에 관심이 많습니다. 
 이에 활용되는 데이터 시각화, 시계열 데이터 분석, 머신러닝, 딥러닝 기법들을 꾸준히 학습하고 있습니다. 🧐
 
 <br>
@@ -48,16 +48,15 @@ Software engineer of Samsung Electronics DS Innovation Center, specializing in i
 데이터 분석에 필요한 다양한 분석 툴 활용 가능합니다.
 - 파이썬 패키지
 
-| Numpy | Pandas | Scikit-learn | Pytorch | matplotlib | seaborn | Plotly | Beautifulsoup |
-|---|---|---|---|---|---|---|---|
-| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/e824b567-7e7f-4789-8f7c-6e9167e88d11"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/be5eec6f-fcab-421e-a200-84d1b3d2bb3a"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/7ee3e1ab-7c33-4338-829c-f221ebbf7944"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/a53d7d28-593e-4356-81b1-5cac090a0771">| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/73c8247f-9b2b-4cd1-ab3f-2a573653a184"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/ab308bc8-f6e6-4a5f-bb4f-001feb244f20"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/8702c2b5-809b-4262-bdf5-eaabd1a0ca28"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6a599815-0acf-48ad-b0bb-ea7f252d52fb"> |  
+| Numpy | Pandas | Scikit-learn | Pytorch | matplotlib | seaborn | Plotly |
+|---|---|---|---|---|---|---|
+| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/e824b567-7e7f-4789-8f7c-6e9167e88d11"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/be5eec6f-fcab-421e-a200-84d1b3d2bb3a"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/7ee3e1ab-7c33-4338-829c-f221ebbf7944"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/a53d7d28-593e-4356-81b1-5cac090a0771">| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/73c8247f-9b2b-4cd1-ab3f-2a573653a184"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/ab308bc8-f6e6-4a5f-bb4f-001feb244f20"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/8702c2b5-809b-4262-bdf5-eaabd1a0ca28"> | 
 
 - 다른 분석 툴
 
-| Oracle SQL | R | Rstudio | tydiverse | ggplot2 | Tableau | SAS |
-|---|---|---|---|---|---|---|
-| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/1529a41e-248a-42ef-8ff9-4b2e72916ec4"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/164969d0-39e1-49c7-9691-886c9f026547"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6e3998b1-3bf4-4601-a8c5-e065e26b1a3b"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/cacdd530-42a7-4805-9fad-7e4167cdcb94"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/adb87a22-3549-434a-a051-221685fa28d8"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/2d15d6ad-aeaa-42be-9141-a97df3118120"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/30eacdec-1dc1-445a-90ff-57013a65b46c"> |
-
+| Oracle SQL | R | Rstudio | tydiverse | ggplot2 | Beautifulsoup |
+|---|---|---|---|---|---|
+| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/1529a41e-248a-42ef-8ff9-4b2e72916ec4"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/164969d0-39e1-49c7-9691-886c9f026547"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6e3998b1-3bf4-4601-a8c5-e065e26b1a3b"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/cacdd530-42a7-4805-9fad-7e4167cdcb94"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/adb87a22-3549-434a-a051-221685fa28d8"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6a599815-0acf-48ad-b0bb-ea7f252d52fb"> |  
 ---
 
 
