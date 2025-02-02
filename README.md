@@ -46,11 +46,10 @@ Software engineer of Samsung Electronics DS Innovation Center, specializing in i
 
 ### ⛏️ Tech Stack
 데이터 분석에 필요한 다양한 분석 툴 활용 가능합니다.
-- 파이썬 패키지
 
-| Numpy | Pandas | Scikit-learn | matplotlib | seaborn | Plotly | Pytorch |
-|---|---|---|---|---|---|---|
-| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/e824b567-7e7f-4789-8f7c-6e9167e88d11"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/be5eec6f-fcab-421e-a200-84d1b3d2bb3a"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/7ee3e1ab-7c33-4338-829c-f221ebbf7944"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/73c8247f-9b2b-4cd1-ab3f-2a573653a184"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/ab308bc8-f6e6-4a5f-bb4f-001feb244f20"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/8702c2b5-809b-4262-bdf5-eaabd1a0ca28"> |  <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/a53d7d28-593e-4356-81b1-5cac090a0771"> |
+| Numpy | Pandas | Scikit-learn | matplotlib | seaborn | Plotly | Pytorch | Oracle SQL | Rstudio | tydiverse |
+|---|---|---|---|---|---|---|---|---|---|
+| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/e824b567-7e7f-4789-8f7c-6e9167e88d11"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/be5eec6f-fcab-421e-a200-84d1b3d2bb3a"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/7ee3e1ab-7c33-4338-829c-f221ebbf7944"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/73c8247f-9b2b-4cd1-ab3f-2a573653a184"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/ab308bc8-f6e6-4a5f-bb4f-001feb244f20"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/8702c2b5-809b-4262-bdf5-eaabd1a0ca28"> |  <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/a53d7d28-593e-4356-81b1-5cac090a0771"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/1529a41e-248a-42ef-8ff9-4b2e72916ec4"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6e3998b1-3bf4-4601-a8c5-e065e26b1a3b"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/cacdd530-42a7-4805-9fad-7e4167cdcb94"> | 
 
 - 다른 분석 툴
 
