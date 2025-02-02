@@ -54,9 +54,9 @@ Software engineer of Samsung Electronics DS Innovation Center, specializing in i
 
 - 다른 분석 툴
 
-| Oracle SQL | R | Rstudio | tydiverse | ggplot2 | Beautifulsoup |
-|---|---|---|---|---|---|
-| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/1529a41e-248a-42ef-8ff9-4b2e72916ec4"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/164969d0-39e1-49c7-9691-886c9f026547"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6e3998b1-3bf4-4601-a8c5-e065e26b1a3b"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/cacdd530-42a7-4805-9fad-7e4167cdcb94"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/adb87a22-3549-434a-a051-221685fa28d8"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6a599815-0acf-48ad-b0bb-ea7f252d52fb"> |  
+| Oracle SQL | R | Rstudio | tydiverse | ggplot2 | 
+|---|---|---|---|---|
+| <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/1529a41e-248a-42ef-8ff9-4b2e72916ec4"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/164969d0-39e1-49c7-9691-886c9f026547"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/6e3998b1-3bf4-4601-a8c5-e065e26b1a3b"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/cacdd530-42a7-4805-9fad-7e4167cdcb94"> | <img src="https://github.com/jmlee8939/jmlee8939/assets/58785929/adb87a22-3549-434a-a051-221685fa28d8"> | 
 ---
 
 
