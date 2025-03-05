@@ -28,15 +28,16 @@ Software engineer of Samsung Electronics DS Innovation Center, specializing in i
     - [후스코어드(Whoscored) 축구 데이터 크롤링](https://github.com/jmlee8939/whoscored_crawling)
     - [e-sports 뉴스기사 키워드 크롤링](https://github.com/jmlee8939/esports_news_crawling)
 3. 데이터 시각화
+    - [국내 경기 순환 시계 시각화](https://github.com/jmlee8939/macroeconomics_analysis)
     - [서울교통공사 수익구조 시각화](https://github.com/jmlee8939/seoul_metro_profit_analysis)
     - [손흥민 선수 스텟 시각화](https://github.com/jmlee8939/Sonny_stats_visualization)
-4. 딥러닝 모델
+5. 딥러닝 모델
     - [pytorch로 구현한 1998 버전 LeNet](https://github.com/jmlee8939/LeNet-5_1998_pytorch)
-5.  데이터 사이언스
+6.  데이터 사이언스
     - [축구경기 공간 점유 모델 (pitch control)](https://github.com/jmlee8939/Wide-Open-Space_Pitch_Control_Model)
     - [축구경기 슛 기대득점 모델 (xG)](https://github.com/jmlee8939/Expected-values-of-soccer)
     - [K-league 실시간 경기 승리확률 예측 베이지안 모형](https://github.com/jmlee8939/K_league_in_game_win_probability_model)
-6. 학습
+7. 학습
     - [Computer Vision - cs231n 강의 과제 풀이](https://github.com/jmlee8939/cs231n-2021)
     - [SQL - SQL Cookbook 실습](https://github.com/jmlee8939/SQL_Cookcook)
     - [C & 알고리즘 - 백준 문제 풀이]()
